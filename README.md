@@ -36,9 +36,7 @@ Abstract artistic background images created with code
 There are many ways to open and write to a file in python. I picked the file handler variant in combination with a call to open() and give a name and method to the function. Since we want to create a svg graphic I used an example and added it to the code.
 
 ### Example
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg>
+![example]("/work/gfx.svg")
 
 ```xml
 <svg width="100" height="100">
